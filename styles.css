@@ -236,3 +236,13 @@ html, body {
 .mdl-demo .mdl-menu__container {
   z-index: 99;
 }
+
+/*
+* add for gamble control
+*/
+.video-container {
+  object-fit: cover;
+
+
+}
+
