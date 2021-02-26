@@ -1,0 +1,13 @@
+.download a{
+    text-decoration:none;
+}
+
+.dlb{
+color:#fff;
+text-align:center;
+padding:5px;
+margin-top:15px;
+background-color:#126df4;
+border-radius: 50px;
+box-shadow:0px 2px 2px #999;
+}
